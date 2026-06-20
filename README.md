@@ -1,4 +1,6 @@
-# The Record — setup
+# Sijill
+
+Live site: https://sijills.com/
 
 A public photographic archive with a private dashboard. The public site (`index.html`)
 reads from Firestore and Storage. The dashboard (`admin.html`) is gated by login and is
